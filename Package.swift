@@ -13,7 +13,7 @@ let package = Package(
     
     .library(name: "TCADependencies", targets: [
       "Popup",
-      "WindowSize"
+      "WindowSize",
       "Keychain"
     ]),
 
@@ -29,10 +29,9 @@ let package = Package(
     .target(name: "WindowSize", dependencies: [.product(name: "Dependencies", package: "swift-dependencies")]),
     .target(name: "Keychain", dependencies: [
       .product(name: "KeychainSwift", package: "keychain-swift"),
-      .product(name: "Dependencies", package: "swift-dependencies")
+      .product(name: "Dependencies", package: "swift-dependencies"),
     ]),
 
-    
   ]
 )
 

@@ -1,5 +1,5 @@
 {
-  "originHash" : "6ae81ce435a028489f82abcebd8b73e9f8529ab17d4184f96008af1a9e3c6127",
+  "originHash" : "9b7c27fa655aeaf0a881513b102b53f07b8091d94adfeda0485072e4369e73bf",
   "pins" : [
     {
       "identity" : "combine-schedulers",
@@ -17,24 +17,6 @@
       "state" : {
         "revision" : "5e1b02b6a9dac2a759a1d5dbc175c86bd192a608",
         "version" : "24.0.0"
-      }
-    },
-    {
-      "identity" : "scrollkit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/danielsaidi/ScrollKit.git",
-      "state" : {
-        "revision" : "d1642f705834ca7718458885d838671c51ca2e17",
-        "version" : "0.6.0"
-      }
-    },
-    {
-      "identity" : "smoothgradient",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/raymondjavaxx/SmoothGradient.git",
-      "state" : {
-        "revision" : "61bf248fad31c7921c9985b418e6e9297cd7b861",
-        "version" : "1.0.0"
       }
     },
     {
@@ -62,15 +44,6 @@
       "state" : {
         "revision" : "0fc0255e780bf742abeef29dec80924f5f0ae7b9",
         "version" : "1.4.1"
-      }
-    },
-    {
-      "identity" : "swift-memberwise-init-macro",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/gohanlon/swift-memberwise-init-macro.git",
-      "state" : {
-        "revision" : "21ca6d8c8f9e4ce27e92f82da294e0d91953b8b6",
-        "version" : "0.5.1"
       }
     },
     {
